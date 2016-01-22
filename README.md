@@ -1,4 +1,4 @@
-== README
+## README
 
 Esse é o projeto base de Rails da CJR. Ele deve ser clonado afim de iniciar um novo projeto. Ele possuí as seguintes caracteristicas:
 
