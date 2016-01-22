@@ -8,7 +8,7 @@ Esse é o projeto base de Rails da CJR. Ele deve ser clonado afim de iniciar um 
 
 + Usa Slim
 
-+ Usa [Smacss](https://smacss.com/) para modularizar stylesheets
++ Usa {Smacss}(https://smacss.com/) para modularizar stylesheets
 
 + Usa Sass
 
