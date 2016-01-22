@@ -1,28 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esse é o projeto base de Rails da CJR. Ele deve ser clonado afim de iniciar um novo projeto. Ele possuí as seguintes caracteristicas:
 
-Things you may want to cover:
++ Ruby Version: 2.2.3
 
-* Ruby version
++ Rails Version: 4.2.4
 
-* System dependencies
++ Usa Slim
 
-* Configuration
++ Usa [Smacss](https://smacss.com/) para modularizar stylesheets
 
-* Database creation
++ Usa Sass
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Para compilar esse arquivo, use `rake doc:app`
