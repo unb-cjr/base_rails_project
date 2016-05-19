@@ -1,0 +1,31 @@
+AllCops:
+  
+  DisplayCopNames: true
+
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+    - 'bin/**/*'
+    - !ruby/regexp /old_and_unused\.rb$/
+
+
+################################################
+
+Style/Documentation:
+    Enabled: false
+
+Style/TrailingWhiteLines:
+  Enabled: false 
+
+Style/EmptyLines:
+  Enabled: false
+
+Style/EmptyLinesAroundClassBody:
+  Enabled: false 
+
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
