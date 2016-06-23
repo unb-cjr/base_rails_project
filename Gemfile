@@ -25,6 +25,8 @@ gem 'font-awesome-rails', '~> 4.5', '>= 4.5.0.1'
 
 gem 'rubocop', '~> 0.39.0', require: false
 
+gem 'rename'
+
 group :development, :test do
   gem 'byebug'
   gem 'mailcatcher'
